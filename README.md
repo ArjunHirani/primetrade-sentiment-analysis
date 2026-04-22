@@ -133,6 +133,22 @@ Examples:
 
 ---
 
+---
+
+# Output Charts
+
+## Average PnL by Sentiment
+
+![Average PnL](outputs/avg_pnl.png)
+
+## Win Rate by Sentiment
+
+![Win Rate](outputs/win_rate.png)
+
+## Number of Trades by Sentiment
+
+![Trades](outputs/trades.png)
+
 # Author
 
 Arjun Hirani
